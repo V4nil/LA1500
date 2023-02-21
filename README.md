@@ -23,8 +23,17 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |    muss             |   funktional   | Wenn man das Spiel startet, kommt zuerst in ein Menu. |
+| 2   |        muss         |   funktional   | Im Menu gibts verschiedene Knöpfe, die verschiedne Sachen machen.  |
+| 3   |         muss        |  funkional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
+| 4  |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
+| 5    |          muss       |   funktional   |  |
+| 6    |                 |      |  |
+| 7    |                 |      |  |
+| 8   |                 |      |  |
+| 9   |                 |      |  |
+| 10   |                 |      |  |
+| 11   |                 |      |  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
