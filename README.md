@@ -33,8 +33,7 @@
 | 8 |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
 | 9   |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde Spielen |
 | 10   |         muss   |  funktional    | Man kann ein Spiel beenden, mit dem Beenden Knopf. |
-| 11  |         muss        |    funktional  | Man hat begrenzte Gebäude. |
-| 12   |           kann      |   funktional   | Verschiedene Gegner Typen. |
+| 11   |           kann      |   rand   | Verschiedene Gegner Typen. |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -50,7 +49,7 @@
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+<img src="https://user-images.githubusercontent.com/110891995/220317206-28ad02f3-9c1a-4012-bf51-e1c00ce3ca2f.png" width="300">
 
 ## 2 Planen
 
