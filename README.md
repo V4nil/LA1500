@@ -15,6 +15,7 @@
 
 ### 1.1 Ihr Projekt
 
+Wie programmieren mit C#  (Unity) ein Tower-Defense spiel.
 
 Wir programmieren ein Tower-Defense spiel. Dessen Prinzip ist das die Gegner eine festgelegte Strecke ab laufen, dabei können Türme neben der Strecke gebaut werden, um zu verhindern, dass die Gegner Das Ziel (unsere Basis) erreichen. Doch für den Spieler wird es immer komplizierter, da immer mehr Gegner kommen aber er die Strecke nicht verändern kann und somit die Länge immer gleich bleibt, die verwendet werden kann, um die Gegner zu stoppen.
 
