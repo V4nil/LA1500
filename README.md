@@ -15,25 +15,28 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir programmieren ein Tower-Defense spiel. Dessen Prinzip ist das die Gegner eine festgelegte Strecke ab laufen, dabei können Türme neben der Strecke gebaut werden, um zu verhindern, dass die Gegner Das Ziel (unsere Basis) erreichen. Doch für den Spieler wird es immer komplizierter, da immer mehr Gegner kommen aber er die Strecke nicht verändern kann und somit die Länge immer gleich bleibt, die verwendet werden kann, um die Gegner zu stoppen.
+
+Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit der Kollaboration Funktion.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    muss             |   funktional   |Wenn man das Spiel startet, kommt zuerst in ein Menu. |
-| 2  |           muss    |   funktional   | Im Menu gibt es einen Start Knopf, mit dem man das Spiel startet.  |
-| 3  |      muss           |   rand   | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
-| 4   |         muss        |    funktional  | Um die Gegner aufzuhalten, kann man Gebäude setzen, die schiessen. |
-| 5   |         muss        |    funktional  | Man hat begrenzte Gebäude. |
-| 6 |         muss        |  funktional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
-| 7  |        muss         |   funktional   | Es jedes Level ist unterschiedlich schwer. |
-| 8 |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
-| 9   |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde Spielen |
-| 10   |         muss   |  funktional    | Man kann ein Spiel beenden, mit dem Beenden Knopf. |
+| 2    |           muss    |   funktional   | Im Menu gibt es einen Start Knopf, mit dem man das Spiel startet.  |
+| 3    |      muss           |   rand   | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
+| 4    |         muss        |    funktional  | Um die Gegner aufzuhalten, kann man Gebäude setzen, die schiessen. |
+| 5    |         muss        |  funktional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
+| 6    |    muss             |  funktional    | Wenn man einen Gegner besiegt bekommt man Geld für neue Türme. |
+| 7    |        muss         |   funktional   | Jedes Level ist schwerer wie das vorherige. |
+| 8    |       muss          |    funktional  | Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
+| 9    |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde Spielen |
+| 10    |         muss   |  funktional    | Man kann ein Spiel beenden, mit dem Beenden Knopf. |
 | 11   |           kann      |   rand   | Verschiedene Gegner Typen. |
+| 12   |    kann             |   rand   | Je nach Gegner Typ gibt es verschieden viel Leben abzug, wenn sie das Ziel erreichen. |
+| 13   |  kann               |   rand   | Man kann die Türme verbessern mit erlangtem Geld. |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
