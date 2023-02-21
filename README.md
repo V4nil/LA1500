@@ -26,7 +26,7 @@
 | 1    |    muss             |   funktional   |Wenn man das Spiel startet, kommt zuerst in ein Menu. |
 | 2   |        muss         |   funktional   | Im Menu gibts verschiedene Knöpfe, die verschieden Sachen machen.  |
 | 3   |           muss    |   funktional   | Im Menu gibt es den Start Knopf, mit dem man das Spiel startet.  |
-| 4  |      muss           |      | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
+| 4  |      muss           |   rand   | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
 | 5   |         muss        |    funktional  | Um die Gegner aufzuhalten, kann man Gebäude setzen, die schiessen. |
 | 6   |         muss        |    funktional  | Man hat begrenzte Gebäude. |
 | 7 |         muss        |  funktional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
