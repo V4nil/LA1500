@@ -27,7 +27,7 @@
 | 2   |        muss         |   funktional   | Im Menu gibts verschiedene Knöpfe, die verschiedne Sachen machen.  |
 | 3   |         muss        |  funkional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
 | 4  |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
-| 5    |          muss       |   funktional   |  |
+| 5    |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man etweder zum Menu oder noch eine neue Runde Spielen |
 | 6    |                 |      |  |
 | 7    |                 |      |  |
 | 8   |                 |      |  |
