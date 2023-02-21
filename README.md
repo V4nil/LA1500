@@ -23,17 +23,20 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    muss             |   funktional   | Wenn man das Spiel startet, kommt zuerst in ein Menu. |
-| 2   |        muss         |   funktional   | Im Menu gibts verschiedene Knöpfe, die verschiedne Sachen machen.  |
-| 3   |         muss        |  funkional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
-| 4  |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
-| 5    |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man etweder zum Menu oder noch eine neue Runde Spielen |
-| 6    |                 |      |  |
-| 7    |                 |      |  |
-| 8   |                 |      |  |
-| 9   |                 |      |  |
-| 10   |                 |      |  |
-| 11   |                 |      |  |
+| 1    |    muss             |   funktional   |Wenn man das Spiel startet, kommt zuerst in ein Menu. |
+| 2   |        muss         |   funktional   | Im Menu gibts verschiedene Knöpfe, die verschieden Sachen machen.  |
+| 3   |           muss    |   funktional   | Im Menu gibt es den Start Knopf, mit dem man das Spiel startet.  |
+| 4  |      muss           |      | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
+| 5   |         muss        |    funktional  | Um die Gegner aufzuhalten, kann man Gebäude setzen, die schiessen. |
+| 6   |         muss        |    funktional  | Man hat begrenzte Gebäude. |
+| 7 |         muss        |  funktional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
+| 8   |        muss         |   funktional   | Es jedes Level ist unterschiedlich schwer. |
+| 9 |       muss          |    funktional  |         Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
+| 10   |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde Spielen |
+| 11   |         muss   |  funktional    | Man kann ein Spiel beenden. |
+| 12   |         muss        |    funktional  | Man hat begrenzte Gebäude. |
+| 13    |           kann      |   funktional   | Verschiedene Gegner Typen. |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
