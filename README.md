@@ -93,16 +93,24 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 5.A  |    7.3   |   Goedertier    |    Türmer in die Hauptmap einfügen.   |       45 min.        |
 | 6.A  |    7.3   |  Koch    |    Eine Startrunde programmieren.    |       45 min.        |
 | 6.B  |    14.3   |   Koch   |    Weitere Runden erstellen.    |       45 min.        |
-| 7.A  |    7.3   |    Gilardoni     |   Man bekommt Geld wenn Gegner sterben.  |       45 min.        |
+| 7.A  |    14.3   |    Gilardoni     |   Man bekommt Geld wenn Gegner sterben.  |       45 min.        |
 | 8.A  |    7.3   |    Gilardoni     | Es gibt Gegener.  |       45 min.        |
-| 8.B  |    7.3   |    Gilardoni     | Die Gegner kommen wenn die Runde beginnt.  |       45 min.        |
+| 8.B  |    14.3   |    Gilardoni     | Die Gegner kommen wenn die Runde beginnt.  |       45 min.        |
 | 9.A  |    7.3   |    Goedertier    | Todes Menu erstellen.  |       45 min.        |
-| 9.A  |    7.3   |    Goedertier    | Todes Menu kommt wenn man stirbt.  |       45 min.        |
+| 9.A  |    14.3   |    Goedertier    | Todes Menu kommt wenn man stirbt.  |       45 min.        |
 | 10.A  |    7.3   |    Raviraj   | Ein Knopf einfügen mit dem man das Programm schliessen kann.  |       45 min.        | 
-| 11.A  |   14.3   |   Raviraj   |   |       45 min.        |
-
-
-
+| 14.A  |   14.3   |   Raviraj  |  Man kann sich auf der Map frei bewegen. |       45 min.        |
+| 11.A  |   14.3   |   Goedertier  |  Verschiedene Gegner Typen erstellen. |       45 min.        |
+| 11.A  |   14.3   |   Goedertier  |  Verschiedene Gegner Typen in das Spiel einfügen. |       45 min.        |
+| 12.A  |   14.3   |   Gilardoni  | Die Geger ziehn unterschiedlich viel Leben abziehen . |       45 min.        |
+| 13.A  |   14.3   |   Koch  |  Einen Knopf einfügen um die Türme zu verbessern. |       45 min.        |
+| 13.A  |   14.3   |   Koch  |  Wenn man den Knopf drückt verbessern, verbessert sich die Türmen, so dass sie mehr Gegner töten können. |       45 min.        |
+| 13.A  |   21.3   |   Koch  |  Wenn man auf den Knopf drückt verbessern, zieht es einen bestimmten Betrag an Gold ab. |       45 min.        |
+| 15.A  |   14.3   |   Raviraj   |  Einen Timer erstellen, der sagt wann die Runde beginnt |       45 min.        |
+| 17.A  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
+| 17.B  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
+| 17.C  |   21.3   |   Raviraj   | Maps ins Spiel implementieren. |       45 min.        |
+ 17.C  |   21.3   |   Raviraj   | Bei jeder neuen Runde gibt es eine neue Runde |       45 min.        |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
