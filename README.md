@@ -28,21 +28,21 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 1    |    muss        |   funktional   | Als Entwickler möchte ich, dass wenn man das Spiel startet ein Hauptmenü erscheint, damit der Spieler nicht direkt in die Runde gezwungen wird. |
 | 2    |           muss      |   funktional   | Als Spieler möchte ich, dass es ein Startknopf im Hauptmenü gibt, damit ich eine Runde starten kann. |
 | 3    |  muss               |   rand         | Als Spieler möchte ich, dass das Spiel Musik hat, damit ich mehr Spass habe und es meine Erfahrung besser macht. |
-| 3    |  muss             |   rand         | Als Spieler möchte ich, dass es ein Einstellungen-Knopf im Hauptmenü gibt, damit ich die Musiklautstärke anpassen kann. |
-| 4    |         muss        |    funktional  | Als Spieler möchte ich, dass es verschiedene Türme gibt, mit denen ich mich von Gegnern schützen kann. |
-| 5    |         muss        |  funktional    | Als Spieler möchte ich, dass es mehrere Runden gibt, damit man eine höhere Herausforderung beim Spielen hat. |
-| 6    |    muss             |  funktional    | Als Spieler möchte ich Geld von besiegten Gegner erhalten, damit ich reich sein kann. |
-| 7    |  muss        |   funktional   | Als Spieler möchte ich, dass jedes Runde schwieriger als die vorherige Runde ist, damit man eine höhere Herausforderung hat. |
-| 8    |       muss          |    funktional  | Als Entwickler möchte ich, dass jede Runde mehr Gegner erscheinen, damit der Spieler es schwerer hat zu gewinnen. |
-| 9    |  muss          |   funktional   | Als Entwickler möchte ich, dass wenn man verliert, man ein Todes-Menü hat, damit man die Runde neu starten kann oder ins Hauptmenü zurückgehen kann. |
-| 10   |         muss        |  funktional    | Als Spieler möchte ich, dass es ein Beenden-Knopf im Hauptmenü gibt, damit ich das Spiel schliessen kann. |
-| 11   |           kann      |   rand         | Als Spieler möchte ich verschiedene Gegnertypen haben, damit meine Spielerfahrung besser ist.  |
-| 12   |    kann             |   rand         | Als Entwickler möchte ich, dass verschiedene Gegnertypen unterschiedlich viel Leben abziehen, wenn sie das Ziel erreichen, damit der Spieler mehr aufpassen muss. |
-| 13   |  kann               |   rand         | Als Spieler möchte ich meine Türme verbessern können, mit erlangtem Geld durch das besiegen von Gegnern, damit ich eine höhere Chance habe das Spiel zu gewinnen.  |
-| 14   |  muss               |   funktional   | Als Spieler möchte ich mich frei auf der Map bewegen können, damit ich alles beobachten kann. |
-| 15   |  kann               |   rand         | Als Spieler möchte ich, dass es am Anfang vom Spieler einen Timer von 30 Sekunden hat, damit ich eine gewisse Zeit habe mich für die erste Welle an Gegnern vorzubereiten. |
-| 16   |  muss               |   funktional   | Als Entwickler möchte ich, dass das Spiel eine 'Hauptmap' hat, damit der Spieler sieht wo er was machen kann in einer Runde. |
-| 17   |  kann               |   rand         | Als Spieler möchte ich, dass das Spiel verschiedene Maps hat, damit ich abwechslungsweise diese Maps spielen kann. |
+| 4    |  muss             |   rand         | Als Spieler möchte ich, dass es ein Einstellungen-Knopf im Hauptmenü gibt, damit ich die Musiklautstärke anpassen kann. |
+| 5    |         muss        |    funktional  | Als Spieler möchte ich, dass es verschiedene Türme gibt, mit denen ich mich von Gegnern schützen kann. |
+| 6    |         muss        |  funktional    | Als Spieler möchte ich, dass es mehrere Runden gibt, damit man eine höhere Herausforderung beim Spielen hat. |
+| 7    |    muss             |  funktional    | Als Spieler möchte ich Geld von besiegten Gegner erhalten, damit ich reich sein kann. |
+| 8    |  muss        |   funktional   | Als Spieler möchte ich, dass jedes Runde schwieriger als die vorherige Runde ist, damit man eine höhere Herausforderung hat. |
+| 9    |       muss          |    funktional  | Als Entwickler möchte ich, dass jede Runde mehr Gegner erscheinen, damit der Spieler es schwerer hat zu gewinnen. |
+| 10    |  muss          |   funktional   | Als Entwickler möchte ich, dass wenn man verliert, man ein Todes-Menü hat, damit man die Runde neu starten kann oder ins Hauptmenü zurückgehen kann. |
+| 11   |         muss        |  funktional    | Als Spieler möchte ich, dass es ein Beenden-Knopf im Hauptmenü gibt, damit ich das Spiel schliessen kann. |
+| 12   |           kann      |   rand         | Als Spieler möchte ich verschiedene Gegnertypen haben, damit meine Spielerfahrung besser ist.  |
+| 13   |    kann             |   rand         | Als Entwickler möchte ich, dass verschiedene Gegnertypen unterschiedlich viel Leben abziehen, wenn sie das Ziel erreichen, damit der Spieler mehr aufpassen muss. |
+| 14   |  kann               |   rand         | Als Spieler möchte ich meine Türme verbessern können, mit erlangtem Geld durch das besiegen von Gegnern, damit ich eine höhere Chance habe das Spiel zu gewinnen.  |
+| 15   |  muss               |   funktional   | Als Spieler möchte ich mich frei auf der Map bewegen können, damit ich alles beobachten kann. |
+| 16   |  kann               |   rand         | Als Spieler möchte ich, dass es am Anfang vom Spieler einen Timer von 30 Sekunden hat, damit ich eine gewisse Zeit habe mich für die erste Welle an Gegnern vorzubereiten. |
+| 17   |  muss               |   funktional   | Als Entwickler möchte ich, dass das Spiel eine 'Hauptmap' hat, damit der Spieler sieht wo er was machen kann in einer Runde. |
+| 18   |  kann               |   rand         | Als Spieler möchte ich, dass das Spiel verschiedene Maps hat, damit ich abwechslungsweise diese Maps spielen kann. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -50,9 +50,8 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Spiel wird gestartet| Man drückt den Startknopf | Runde wird gestartet. |
-| 1.2  | Das Spiel wird gestartet| Man drückt den Beendenknopf | Spiel wird geschlossen. |
-| 1.3  | Das Spiel wird gestartet| Man drückt den Optionenknopf | Das Fenster 'Optionen' wird geöffnet. |
+| 2.1  | Das Spiel wird gestartet| Man drückt den Startknopf | Runde wird gestartet. |
+| 4.1  | Das Spiel wird gestartet| Man drückt den Optionenknopf | Das Fenster 'Optionen' wird geöffnet. |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
