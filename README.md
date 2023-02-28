@@ -108,7 +108,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 13.A  |   21.3   |   Koch  |  Wenn man auf den Knopf drückt verbessern, zieht es einen bestimmten Betrag an Gold ab. |       45 min.        |
 | 15.A  |   14.3   |   Raviraj   |  Einen Timer erstellen, der sagt wann die Runde beginnt |       45 min.        |
 | 17.A  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
-| 17.B  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
+| 17.B  |   21.3   |   Gilardoni   | Neue Maps erstellen. |       45 min.        |
 | 17.C  |   21.3   |   Raviraj   | Maps ins Spiel implementieren. |       45 min.        |
  17.D |   21.3   |   Raviraj   | Bei jeder neuen Runde gibt es eine neue Runde |       45 min.        |
 Total: 1260 min.
