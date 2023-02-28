@@ -110,8 +110,8 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 17.A  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
 | 17.B  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
 | 17.C  |   21.3   |   Raviraj   | Maps ins Spiel implementieren. |       45 min.        |
- 17.C  |   21.3   |   Raviraj   | Bei jeder neuen Runde gibt es eine neue Runde |       45 min.        |
-Total: 
+ 17.D |   21.3   |   Raviraj   | Bei jeder neuen Runde gibt es eine neue Runde |       45 min.        |
+Total: 1260 min.
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
