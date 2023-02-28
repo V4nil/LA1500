@@ -3,7 +3,7 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+✍️ Orchid: Gilardoni, Goedertier, Raviraj und Koch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -83,8 +83,14 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  7.3     |    Koch       |       Eine Hauptmenu erstellen.       |        45 min.       |
+| 2.A  |    7.3   |   Koch        |     Einen Startknopf im Hauptmenu einfügen         |       45 min.        |
+| 3.A  |    7.3   |   Gilardoni        |     Musik auswählen       |       45 min.        |
+| 3.B  |   14.3   |   Gilardoni        |     Musik einfügen      |       45 min.        |
+| 4.A  |    7.3   |    Raviraj     |     Bouton für Einstellungen und ein Fester für die Einstellungen      |       45 min.        |
+| 4.A  |    7.3   |    Raviraj     |     In der Einstellung die Musik leiser oder lauter stellen können.     |       45 min.        |
+
+
 
 Total: 
 
