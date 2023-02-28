@@ -25,20 +25,23 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    muss             |   funktional   |Wenn man das Spiel startet, kommt zuerst in ein Menu. |
-| 2    |           muss    |   funktional   | Im Menu gibt es einen Start Knopf, mit dem man das Spiel startet.  |
-| 3    |      muss           |   rand   | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
+| 1    |    muss             |   funktional   | Wenn man das Spiel startet, kommt zuerst in ein Menu. |
+| 2    |           muss      |   funktional   | Im Menu gibt es einen Startknopf, mit dem man das Spiel startet.  |
+| 3    |      muss           |   rand         | Im Menu gibt es einen Knopf, um in die Einstellungen zu kommen.  |
 | 4    |         muss        |    funktional  | Um die Gegner aufzuhalten, kann man Gebäude setzen, die schiessen. |
-| 5    |         muss        |  funktional    | Der Spieler kommt nach jedem bestanden Level zu einem neuem Level |
-| 6    |    muss             |  funktional    | Wenn man einen Gegner besiegt bekommt man Geld für neue Türme. |
-| 7    |        muss         |   funktional   | Jedes Level ist schwerer wie das vorherige. |
+| 5    |         muss        |  funktional    | Der Spieler kommt nach jedem bestandenen Level zu einem neuen Level |
+| 6    |    muss             |  funktional    | Wenn man einen Gegner besiegt, bekommt man Geld für neue Türme. |
+| 7    |        muss         |   funktional   | Jedes Level ist schwerer als das vorherige. |
 | 8    |       muss          |    funktional  | Mit jeder Runde kommen mehr Gegner, die ins Ziel wollen.                           |
-| 9    |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde Spielen |
-| 10    |         muss   |  funktional    | Man kann ein Spiel beenden, mit dem Beenden Knopf. |
-| 11   |           kann      |   rand   | Verschiedene Gegner Typen. |
-| 12   |    kann             |   rand   | Je nach Gegner Typ gibt es verschieden viel Leben abzug, wenn sie das Ziel erreichen. |
-| 13   |  kann               |   rand   | Man kann die Türme verbessern mit erlangtem Geld. |
-
+| 9    |          muss       |   funktional   | Wenn man das Level nicht besteht, kann man entweder zum Menu oder noch eine neue Runde spielen |
+| 10   |         muss        |  funktional    | Man kann ein Spiel beenden, mit dem Beenden Knopf. |
+| 11   |           kann      |   rand         | Verschiedene Gegnertypen. |
+| 12   |    kann             |   rand         | Je nach Gegnertyp gibt es verschieden viel Leben Abzug, wenn sie das Ziel erreichen. |
+| 13   |  kann               |   rand         | Man kann die Türme verbessern, mit erlangtem Geld. |
+| 14   |  muss               |   funktional   | Der Spieler kann sich über die Map bewegen, ohne durch Gegenstände durchzulaufen. |
+| 15   |  kann               |   rand         | Am Anfang des Spiels zeigt sich ein Timer von 30 Sekunden, bevor die erste Welle an Gegner kommt.|
+| 16   |  muss               |   funktional   | Das Spiel hat eine 'Hauptmap'. |
+| 17   |  kann               |   rand         | Das Spiel hat verschiedene Maps, von denen der Spieler auswählen kann. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
