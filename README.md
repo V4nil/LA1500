@@ -9,7 +9,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |   21.02    | 0.0.1   | Projekt definieren, User Stories machen und zwei Diagramme zu unserem Projekt erstellen |
 |     28.02  | 0.0.2  |          Wir haben unsere Arbeit für die nächsten Wochen geplant und haben die Testfälle ausgearbeitet                                                   |
-|   07.03    | 1.0.0   |          Wir fangen an mit dem Programmieren                                                    |
+|   07.03    | 1.0.0   |          Wir haben angefangen die User Stories abzuarbeiten.                                   |
 
 ## 1 Informieren
 
