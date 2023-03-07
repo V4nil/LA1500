@@ -7,9 +7,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   21.02    | 0.0.1   | Projekt definieren, User Stories machen und zwei Diagramme zu unserem Projekt erstellen |
+|     28.02  | 0.0.2  |          Wir haben unsere Arbeit für die nächsten Wochen geplant und haben die Testfälle ausgearbeitet                                                   |
+|   07.03    | 1.0.0   |          Wir fangen an mit dem Programmieren                                                    |
 
 ## 1 Informieren
 
