@@ -90,7 +90,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 4.A  |    7.3   |    Raviraj     |     Bouton für Einstellungen und ein Fester für die Einstellungen      |       45 min.        |
 | 4.B  |    7.3   |    Raviraj     |     In der Einstellung die Musik leiser oder lauter stellen können.     |       45 min.        |
 | 16.A  |    7.3   |   Goedertier    |    Eine Hauptmap erstellen.    |       45 min.        |
-| 5.A  |    7.3   |   Goedertier    |    Türmer in die Hauptmap einfügen.   |       45 min.        |
+| 5.A  |    7.3   |   Goedertier    |    Türme in die Hauptmap einfügen.   |       45 min.        |
 | 6.A  |    7.3   |  Koch    |    Eine Startrunde programmieren.    |       45 min.        |
 | 6.B  |    14.3   |   Koch   |    Weitere Runden erstellen.    |       45 min.        |
 | 7.A  |    14.3   |    Gilardoni     |   Man bekommt Geld wenn Gegner sterben.  |       45 min.        |
