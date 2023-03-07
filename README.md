@@ -104,8 +104,8 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 11.B  |   14.3   |   Goedertier  |  Verschiedene Gegner Typen in das Spiel einfügen. |       45 min.        |
 | 12.A  |   14.3   |   Gilardoni  | Die Gegner ziehn unterschiedlich viel Leben abziehen . |       45 min.        |
 | 13.A  |   14.3   |   Koch  |  Einen Knopf einfügen um die Türme zu verbessern. |       45 min.        |
-| 13.A  |   14.3   |   Koch  |  Wenn man den Knopf drückt verbessern, verbessert sich die Türmen, so dass sie mehr Gegner töten können. |       45 min.        |
-| 13.A  |   21.3   |   Koch  |  Wenn man auf den Knopf drückt verbessern, zieht es einen bestimmten Betrag an Gold ab. |       45 min.        |
+| 13.B  |   14.3   |   Koch  |  Wenn man den Knopf drückt verbessern, verbessert sich die Türmen, so dass sie mehr Gegner töten können. |       45 min.        |
+| 13.C  |   21.3   |   Koch  |  Wenn man auf den Knopf drückt verbessern, zieht es einen bestimmten Betrag an Gold ab. |       45 min.        |
 | 15.A  |   14.3   |   Raviraj   |  Einen Timer erstellen, der sagt wann die Runde beginnt |       45 min.        |
 | 17.A  |   21.3   |   Goedertier   | Neue Maps erstellen. |       45 min.        |
 | 17.B  |   21.3   |   Gilardoni   | Neue Maps erstellen. |       45 min.        |
