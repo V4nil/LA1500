@@ -87,7 +87,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 2.A  |    7.3   |   Koch        |     Einen Startknopf im Hauptmenu einfügen         |       45 min.        |
 | 3.A  |    7.3   |   Gilardoni        |     Musik auswählen       |       45 min.        |
 | 3.B  |   14.3   |   Gilardoni        |     Musik einfügen      |       45 min.        |
-| 4.A  |    7.3   |    Raviraj     |     Bouton für Einstellungen und ein Fester für die Einstellungen      |       45 min.        |
+| 4.A  |    7.3   |    Raviraj     |     Knopf für Einstellungen und ein Fester für die Einstellungen      |       45 min.        |
 | 4.B  |    7.3   |    Raviraj     |     In der Einstellung die Musik leiser oder lauter stellen können.     |       45 min.        |
 | 16.A  |    7.3   |   Goedertier    |    Eine Hauptmap erstellen.    |       45 min.        |
 | 5.A  |    7.3   |   Goedertier    |    Türme in die Hauptmap einfügen.   |       45 min.        |
@@ -102,7 +102,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 14.A  |   14.3   |   Raviraj  |  Man kann sich auf der Map frei bewegen. |       45 min.        |
 | 11.A  |   14.3   |   Goedertier  |  Verschiedene Gegner Typen erstellen. |       45 min.        |
 | 11.A  |   14.3   |   Goedertier  |  Verschiedene Gegner Typen in das Spiel einfügen. |       45 min.        |
-| 12.A  |   14.3   |   Gilardoni  | Die Geger ziehn unterschiedlich viel Leben abziehen . |       45 min.        |
+| 12.A  |   14.3   |   Gilardoni  | Die Gegner ziehn unterschiedlich viel Leben abziehen . |       45 min.        |
 | 13.A  |   14.3   |   Koch  |  Einen Knopf einfügen um die Türme zu verbessern. |       45 min.        |
 | 13.A  |   14.3   |   Koch  |  Wenn man den Knopf drückt verbessern, verbessert sich die Türmen, so dass sie mehr Gegner töten können. |       45 min.        |
 | 13.A  |   21.3   |   Koch  |  Wenn man auf den Knopf drückt verbessern, zieht es einen bestimmten Betrag an Gold ab. |       45 min.        |
