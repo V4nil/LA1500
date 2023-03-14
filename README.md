@@ -9,7 +9,9 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |   21.02    | 0.0.1   | Projekt definieren, User Stories machen und zwei Diagramme zu unserem Projekt erstellen |
 |     28.02  | 0.0.2  |          Wir haben unsere Arbeit für die nächsten Wochen geplant und haben die Testfälle ausgearbeitet                                                   |
-|   07.03    | 1.0.0   |          Wir haben angefangen die User Stories abzuarbeiten.                                   |
+|   07.03    | 0.0.3   |          Wir haben angefangen die User Stories abzuarbeiten.                                   |
+|   14.03    | 0.0.4   |          Wir haben die Userstorys weiter bearbeitet und diese versucht zu erfüllen.                                 |
+
 
 ## 1 Informieren
 
